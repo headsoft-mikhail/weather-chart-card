@@ -1313,7 +1313,7 @@ class WeatherChartCardEditor extends s {
               .checked="${this._config.show_uv !== false}"
             ></ha-switch>
             <label class="switch-label">
-              Show Sun
+              Show UV
             </label>
           </div>
           <div class="switch-container">
